@@ -1,1 +1,0 @@
-Export act2_parity.py
